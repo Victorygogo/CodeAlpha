@@ -1,2 +1,4 @@
 # CodeAlpha
-Cybersecurity Intern at CodeAlpha. As a cybersecurity intern, i am excited to contribute to and learn from three critical projects that form the backbone of network security and threat prevention.
+Task 2 Phishing Awareness Training
+Project
+Create a presentation or online training module about phishing attacks. Educate others about recognizing and avoiding phishing emails, websites, and social engineering tactics.
